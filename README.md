@@ -5,7 +5,7 @@
 ![Docker](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?style=flat-square) 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Manisso/fsociety/blob/master/LICENSE)
 
-A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 version see our updated version at [`fsociety-team/fsociety`](https://github.com/fsociety-team/fsociety).
+A Penetration Testing Framework, you will have every script that a hacker needs. Works  with Python 2. For a Python 3 version see our updated version at [`fsociety-team/fsociety`](https://github.com/fsociety-team/fsociety).
 
 ## Fsociety Contains All Tools Used in Mr. Robot Series
 
