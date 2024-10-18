@@ -167,5 +167,4 @@ docker-compose down # destroys instance
 [CRO-TheHacker](https://github.com/CRO-THEHACKER)
 
 # License
-
 [MIT Licence](https://github.com/Manisso/fsociety/blob/master/LICENSE)
